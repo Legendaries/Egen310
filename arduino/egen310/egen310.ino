@@ -5,7 +5,10 @@ int PRESSURE_PIN = 7;
 //Digital Pins
 int RESET_PIN = 8;
 int LED_PIN = 9;
-
+//     123
+//1%   463
+//2%   573
+//3.5% 610
 //ETC
 int SAFE_SALINITY = 50;
 int DELAY = 1000;
